@@ -19,15 +19,6 @@
         "cells": []
       },
       {
-        "id": 2,
-        "title": "New CIA diagram",
-        "diagramType": "CIA",
-        "placeholder": "New CIA diagram description",
-        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
-        "version": "2.4.1",
-        "cells": []
-      },
-      {
         "id": 3,
         "title": "New DIE diagram",
         "diagramType": "DIE",
